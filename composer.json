@@ -1,1 +1,5 @@
-"config": {}
+{
+    "name": "heorhi/php",
+    "description": "default package",
+    "require": {}
+}
